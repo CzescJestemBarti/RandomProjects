@@ -1,0 +1,4 @@
+#Config for files that should not be included in git
+.idea
+*.iml
+\target
